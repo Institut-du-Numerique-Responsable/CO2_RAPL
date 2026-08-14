@@ -1,0 +1,35 @@
+# Métadonnées de citation lisibles par les humains, les moteurs et les assistants IA.
+# Format Citation File Format 1.2.0 — https://citation-file-format.github.io
+cff-version: 1.2.0
+message: "Si vous utilisez ce travail, merci de le citer comme ci-dessous."
+type: software
+title: "CO2_RAPL — Estimation de l'empreinte carbone d'un serveur Linux via RAPL"
+abstract: "Script RAPL pour estimer l'empreinte carbone et la consommation d'un serveur Linux / RAPL-based carbon footprint estimation for Linux servers"
+authors:
+  - name: "Institut du Numérique Responsable"
+    alias: "INR"
+    website: "https://institutnr.org"
+  - given-names: "Guillaume"
+    family-names: "Gallon"
+    alias: "gridboy"
+    affiliation: "Institut du Numérique Responsable"
+repository-code: "https://github.com/Institut-du-Numerique-Responsable/CO2_RAPL"
+url: "https://institutnr.org"
+license: CC0-1.0
+date-released: 2026-02-19
+keywords:
+  - "carbon-accounting"
+  - "carbon-footprint"
+  - "digital-sustainability"
+  - "energy-efficiency"
+  - "energy-monitoring"
+  - "green-it"
+  - "green-software"
+  - "inr"
+  - "intel-rapl"
+  - "linux"
+  - "numerique-responsable"
+  - "powercap"
+  - "rapl"
+  - "server-monitoring"
+  - "sustainable-it"
